@@ -1,7 +1,13 @@
 # My Credly Badges
-![Exploring Emerging Tech](https://acclaim-production-app.files.credly.com/uploads/baked_badge_image/image/282ade6b-3066-490e-97e3-eca180aba6d5/explore-emerging-tech.png?response-content-disposition=attachment&X-Amz-Expires=86400&X-Amz-Date=20241014T083205Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5DGBWDLSBJ5BZX5Z%2F20241014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1b98e39da26c7ddb63d94ad517c4472c3270947c48ac39dc492277d111e499bf)
+![Getting Started with Artificial Intelligence](https://imgur.com/jb9w8wg.png)
+![LFC108: Cybersecurity Essentials](https://i.imgur.com/bSlMHZ0.png)
+![Web Development Fundamentals](https://i.imgur.com/kutez52.png)
+![Enterprise Design Thinking Practitioner](https://i.imgur.com/HFrdqEH.png)
+![Explore Emerging Tech](https://i.imgur.com/3Ebe0Bj.png)
+![ISC2 Candidate](https://i.imgur.com/j7e4JC9.png)
+![Computer Hardware Basics](https://i.imgur.com/gxky8OL.png)
 
-
+# My Holopins
 [![An image of @parteekxo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parteekxo)](https://holopin.io/@parteekxo)
 
 <!---
