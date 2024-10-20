@@ -22,7 +22,8 @@ Hello! I'm Akashdeep Singh, a passionate web developer and cybersecurity enthusi
 Check out the app: [TuDuu Web App](https://todo-zd6n.onrender.com)
 
 ## TuDuu App Showcase Video
-[![Watch the video](https://i.imgur.com/NXe5z0H.png)](https://www.youtube.com/watch?v=1nUOCIeR0RQ)
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 *In this video, I walk through the features of my task management app, TuDuu, and demonstrate how it helps users manage their tasks.*
 
