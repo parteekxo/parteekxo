@@ -23,6 +23,7 @@ Check out the app: [TuDuu Web App](https://todo-zd6n.onrender.com)
 
 ## TuDuu App Showcase Video
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Tuduu: My Final CS50 Project – A To-Do List WebApp](https://ytcards.demolab.com/?id=1nUOCIeR0RQ&title=Tuduu%3A+My+Final+CS50+Project+%E2%80%93+A+To-Do+List+WebApp&lang=en&timestamp=1728414762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tuduu: My Final CS50 Project – A To-Do List WebApp")](https://www.youtube.com/watch?v=1nUOCIeR0RQ)
 <!-- END YOUTUBE-CARDS -->
 
 *In this video, I walk through the features of my task management app, TuDuu, and demonstrate how it helps users manage their tasks.*
