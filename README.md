@@ -20,7 +20,7 @@ Hello! I'm Akashdeep Singh, a passionate web developer and cybersecurity enthusi
   - Mark tasks as completed
   - Simple and intuitive user interface
 
-Check out the app: [TuDuu Web App](https://your-app-link.com)
+Check out the app: [TuDuu Web App](https://todo-zd6n.onrender.com)
 
 ## TuDuu App Showcase Video
 [![Watch the video](https://img.youtube.com/vi/1nUOCIeR0RQ/0.jpg)](https://www.youtube.com/watch?v=1nUOCIeR0RQ)
