@@ -2,7 +2,7 @@
 
 Hello! I'm Akashdeep Singh, a passionate web developer and cybersecurity enthusiast. I enjoy building full-stack applications and learning new technologies. Recently, I have been focusing on improving my skills in HTML, CSS, Flask, and cybersecurity. I love contributing to open-source projects and always looking for opportunities to collaborate on exciting development projects.
 
-<br>    🌱 Currently learning: CSS and Flask<br>    💼 Exploring: Cybersecurity & Full-stack Web Development<br>    🎓 Certifications: Web Development Fundamentals, Enterprise Design Thinking, ISC2 Candidate, and more!<br>    🔗 Let's connect: LinkedIn | GitLab | YouTube | Credly | Microsoft Learn<br>
+<br>    🌱 Currently learning: CSS and Flask<br>    💼 Exploring: Cybersecurity & Full-stack Web Development<br>    🎓 Certifications: Web Development Fundamentals, Enterprise Design Thinking, ISC2 Candidate, and more!<br>    🔗 Let's connect: [LinkedIn](https://linkedin.com/in/parteekxo) | [GitLab](https://gitlab.com/parteekxo) | [YouTube](https://youtube.com/channel/@parteekxo) | [Credly](https://www.credly.com/users/akashdeep-singh.a1ddba0b) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/parteekxo/)<br>
 
 
 # 🌐 Socials:
