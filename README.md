@@ -36,6 +36,16 @@ Check out the app: [TuDuu Web App](https://todo-zd6n.onrender.com)
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parteekxo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+# GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100px" height="100px" />
+</div>
+
 # 📛 My Credly Badges:
 ![Getting Started with Artificial Intelligence](https://imgur.com/jb9w8wg.png)
 ![LFC108: Cybersecurity Essentials](https://i.imgur.com/bSlMHZ0.png)
